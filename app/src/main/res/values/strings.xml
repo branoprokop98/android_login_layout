@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="login_page_image">login_page_image</string>
+    <string name="submit">google</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forget_password">Forget password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password_confirm">Password confirm</string>
+</resources>
